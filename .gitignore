@@ -1,0 +1,9 @@
+# Binários e arquivos de objeto
+*.o
+*.out
+*.exe
+
+# Arquivos temporários e de compilação do Code::Blocks
+*.layout
+*.depend
+*.cbp
